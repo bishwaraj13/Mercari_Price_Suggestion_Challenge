@@ -2032,7 +2032,7 @@ print("Item Description Shape: " + str(X_description.shape))
 
 
 <a id = 'eli5'></a>
-<img src='./images/eli5_3.png', hspace = '60'>
+<img src='./images/eli5_3.png'>
 
 # Eli5
 ***
